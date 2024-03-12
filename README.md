@@ -1,5 +1,5 @@
 # Meu primeiro projeto
-## Prof.Alexandre
+## Leandro
 
 ```
 Exemplo de repositório remoto
