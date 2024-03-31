@@ -13,3 +13,7 @@ h1, h2{
 .menu a{
     font-weight: bold;
 }
+
+#conteudo {
+    line-height: 1.5;
+}
