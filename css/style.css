@@ -1,3 +1,7 @@
+.container header, div, h1, nav, section, h2, footer, form, legend, ul, li{
+    padding: 20px;
+}
+
 header {
     background-color: blue;
 }
