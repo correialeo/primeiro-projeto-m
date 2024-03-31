@@ -26,3 +26,8 @@ form{
 p {
     color: green;
 }
+
+.btn-form {
+    background-color: blue;
+    color: white;
+}
