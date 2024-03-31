@@ -1,4 +1,4 @@
-.container header, div, h1, nav, section, h2, footer, form, legend, ul, li{
+.container *{
     padding: 20px;
 }
 
